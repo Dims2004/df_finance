@@ -2,7 +2,7 @@
 
 Dashboard keuangan pribadi berbasis Excel untuk mencatat, menganalisis, dan memvisualisasikan pemasukan & pengeluaran bulanan. Dibuat menggunakan PivotTable, PivotChart, Slicer, dan formula `GETPIVOTDATA` untuk menampilkan ringkasan KPI secara interaktif.
 
-## 📸 Preview
+##  Preview
 
 > Tambahkan screenshot dashboard kamu di sini, misalnya:
 > `![Dashboard Preview](assets/dashboard-preview.png)`
