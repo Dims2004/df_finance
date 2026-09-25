@@ -5,7 +5,7 @@ Dashboard keuangan pribadi berbasis Excel untuk mencatat, menganalisis, dan memv
 ##  Preview
 
 > Tambahkan screenshot dashboard kamu di sini, misalnya:
-> `![Dashboard Preview](assets/dashboard-preview.png)`
+> `aset/df finance.png`
 
 ## Fitur
 
